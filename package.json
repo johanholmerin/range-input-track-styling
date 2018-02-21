@@ -1,0 +1,10 @@
+{
+  "name": "range-input-track-styling",
+  "version": "1.0.0",
+  "author": "Johan Holmerin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:johanholmerin/range-input-track-styling.git"
+  }
+}
